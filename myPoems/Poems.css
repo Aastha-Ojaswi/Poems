@@ -1,4 +1,5 @@
 body{
+  background: linear-gradient(to right, #D16BA5, #86A8E7, #5FFBF1);
   text-align: center;
 }
 
@@ -32,6 +33,7 @@ h1{
   font-family: "Noto Serif Devanagari", serif;
   white-space: pre-wrap;
   pointer-events: none;
+  color: gold;
 }
 
 .translate-button{
